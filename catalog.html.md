@@ -12,21 +12,21 @@
         <li>
           <a href="#">Barbershop</a>
         </li>
-          <li>
+        <li>
             <a href="#">Информация</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="#">Новости</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="#">Прайс-лист</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="#">Магазин</a>
-          </li>
-          <li>
+        </li>
+        <li>
             <a href="#">Контакты</a>
-          </li>
+        </li>
         </ul>
       </nav>
       <div class="user-block">
