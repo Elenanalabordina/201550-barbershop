@@ -147,6 +147,6 @@
               <a class="btn" href="https://htmlacademy.ru">HTML Academy</a>
             </section>
           </div>
-        </footer>
-      </body>
+      </footer>
+    </body>
 </html>
